@@ -1,0 +1,18 @@
+defaults:
+ - scope:
+    path: ""
+    type: pages
+   values:
+    layout: default
+
+exclude:
+ - publish.sh
+ - _site
+ - Gemfile
+ - Gemfile.lock
+ - travis.sh
+ - "*.org"
+ - "*.mpeg"
+ - "*.mp4"
+ - "*.mp3"
+
