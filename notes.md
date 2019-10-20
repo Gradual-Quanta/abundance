@@ -146,3 +146,75 @@ C’est un vrai bonheur de vous faire partager ce temps de réflexion personnel 
 Belle méditation & excellente journée à vous tous,
 Karine 🕉🤸‍♀
 .
+
+
+## day 4
+Bonjour groupe chéri 💕
+
+Bravo à celles et ceux  d’entre vous qui ont signalé leur complétion du programme du troisième jour‼👑👍
+Pour celui/celle qui souhaite  ouvrir son groupe, no pressure. 😋💛
+
+Faites ce qui est juste pour vous, 🙏🕉car 
+ Aucune obligation de créer son groupe 🥰❣(n'est-ce pas Michel C😅) 
+
+Bienvenue au jour 4! 😘
+
+Vous trouverez ci-dessous la proposition d'aujourd'hui.
+ Pour certains d’entre vous, cette tâche est très simple, pour d’autres moins… cela dépend de votre rapport à l'argent.
+
+Si vous rencontrez des difficultés, rappelez-vous de rester sans jugement, nous explorons le sujet de l'abondance dans toutes ses dimensions ...
+
+Voici la tâche :
+
+Écrivez dans votre cahier ou sur un bout de papier libre la liste de toutes vos dettes, qu'elles soient liées à votre compte bancaire, carte de crédit, crédits personnels, dettes envers d'autres personnes privées (famille ou entreprise), dettes envers des institutions gouvernementales ou judiciaires. ... Toutes vos dettes de toutes sortes ...
+Inutile de mentionner leur montant, seulement la source (par exemple: hypothèque, emprunt bancaire, loyer, intérêt de prêt automobile, _Ma copine Karine _, etc.).
+
+Ensuite, écrivez toutes vos dépenses mensuelles (sans le montant, seulement les articles).
+Par exemple: loyer, électricité, téléphone, eau, abonnement à un club, frais de scolarité, pension, assurance, etc.).
+Notez toutes les choses que vous devez payer chaque mois.
+
+En résumé, dressez une liste générale de toutes vos dépenses mensuelles, fixes et variables.
+
+On est sur un plan énergétique… pas comptable, donc on se détend, et on le fait, avec le plus de sérénité possible !
+
+Pour certains d'entre vous, la liste sera longue. Si c'est votre cas, prenez votre temps, parcourez sereinement tous les domaines de votre vie pour lesquels vous devez dépenser de l'argent.
+
+Puisse la grande énergie d'abondance de ce groupe étonnant continuer à grandir et à nous enrichir tous !
+
+Ci-dessous la méditation du jour 4.
+Tres belle journée à tous, 🌸Namasté🥰
+Karine 🕉🤸‍♀🧘‍♀
+
+## day 5
+
+Bonjour !
+Sorry Jean-Charles pour ce retard 😀🙏
+
+Bravo de poursuivre ce défi et Bravo d’en être arrivé là ❤ 
+
+Continuez de vous accorder de la douceur et de l’indulgence ici, continuez à observer les synchronicités❣
+ Je salue votre  engagement dans la pratique, & au vu de vos MP, je vois que ca bouge énormément pour 4 d'entre vous.
+En effet, on peut survoler les exercices et plonger dedans...  comme dans la vie.
+Vous êtes beaux❣
+Je vous adore, quel groupe vibrant, j'apprend beaucoup‼
+Merci de vos partages😉
+
+Voici la tâche du jour 5 :
+Lors de votre dernier exercice vous avez dressé la liste de toutes vos dettes et de vos dépenses mensuelles ... Il est maintenant temps de les rembourser !
+Sur un morceau de papier ou dans votre cahier, tracez le mode de paiement de votre choix avec lequel vous allez payer vos dettes et vos frais (par exemple, un chèque, une carte de crédit, des pièces de monnaie, des billets de banque ou tout autre moyen de paiement de votre choix, ou plusieurs d'entre eux en même temps).
+
+Utilisez toute votre créativité et autant de couleurs et de formes que vous le souhaitez pour réaliser cette tache, car vous remboursez vos dettes énergétiquement‼
+
+Lorsque vous concentrez votre attention sur le dessin, sentez la satisfaction ressentie quand on rembourse une dette et qu'on vient de créer un équilibre.
+
+Faites le aussi pour tout ce que vous devez payer chaque mois pour vos dépenses, comme si c’était un paiement réel.
+
+Laissez-vous entrer dans l'expérience sans jugement et ancrez en vous les sentiments liés à ce moment, comme si cela se produisait réellement.
+
+BELLE méditation‼🥰
+
+Que ce samedi soit joyeux et harmonieux 🦋
+☔💕🎁🎈🤩🥝
+
+
+

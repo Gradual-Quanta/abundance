@@ -11,8 +11,9 @@ check out the Deepak's 21 days Abondance Meditation :
 
 ### Today:
 
-Day 5 Mantra: [Sat Chit Ananda](https://duckduckgo.com/?q=Sat+Chit+Ananda) <!-- vérité conscience et grâce -->
-<audio title="Day 5" src="{{page.pgw}}/ipfs/{{site.data.ipfs.qm}}/21 Days of Abundance - Day 05-1qMc739s1DY.mp3" type="audio/mp3" controls=1></audio>
+Day 6 Mantra: [Ram](https://duckduckgo.com/?q=%22Ram%22+Sanscrit+Mantra) : 
+ everything I desire is within me <!-- tout ce que je desire est en moi -->
+<audio title="Day 6" src="{{page.pgw}}/ipfs/{{site.data.ipfs.qm}}/21 Days of Abundance - Day 06-EkpqqrWpudc.mp3" type="audio/mp3" controls=1></audio>
 
 
 
