@@ -217,4 +217,52 @@ Que ce samedi soit joyeux et harmonieux 🦋
 ☔💕🎁🎈🤩🥝
 
 
+## day 6
 
+Bonjour les âmi(e)s...
+💛💛💛 !....✨
+Le soleil se lève et... nous aussi !
+Alors jolis rayons de soleil :
+
+Le défi du jour 6 est un des plus importants et des plus longs du programme donc prenez votre temps.
+No panic. 🙏
+Personnellement j’ai fait des petites pauses, c’était intéressant de voir comme la conscience s’est glissée à des endroits différents du texte selon le moment où je faisais l’exercice. Soyez à l’écoute.
+Écrivez en conscience. 
+
+Notre cerveau apprend et codifie les choses à partir de répétitions, c’est pourquoi nous allons vivre sous plusieurs formes la répétition du texte qui suit. 
+Préparez votre main pour écrire, et préparez-vous à vous connecter en écrivant les mots suivants afin d’harmoniser votre relation intérieure avec la prospérité, et en particulier l’argent.
+
+Encore une fois, je me permets de rajouter qques mots pour cette tâche du jour :
+ Pour ceux qui ne se sentent pas à l’aise avec ce travail autour de l’argent, très diabolisé dans notre culture et certains milieux, vous pouvez y mettre tout ce dont vous rêvez. 
+De quoi avez vous besoin pour vous sentir pleinement heureux aujourd’hui ? 
+Tout ça est en vous déjà. Tout ça ne dépend que de vous. Certainement pas des autres.
+Prenez la pleine responsabilité de votre vie...🙏🎁👍
+
+Ce travail sur 21 jours, soutenu par ces magnifiques méditations, est là pour nous le rappeler. Et 21 jours est le temps nécessaire pour opérer et ancrer un changement en nous. Profitez en. 😉
+It’ s time d’être profondément en lien avec nous même, d'oser s'aimer, s'estimer s'écouter et oser être libre, non, qu’en dites vous ?    😃💕✨.
+
+"Je soussigné(e)(inscrire votre nom complet) demarre à partir d'aujourd'hui une nouvelle relation avec la prospérité et notamment avec l'argent.
+L'argent est un outil utile et necessaire pour mon developpement. 
+Les richesses physiques, émotionnelles et spirituelles sont des joyaux dans la vie. 
+Mes succès apportent beaucoup de richesse, à moi même, à ceux qui m'entourent et au monde.
+Je suis legitime d’être prospère et j'ai le droit de créer cette abondance!
+L'argent est mon outil et la valeur que je lui donne dépend de comment je le fais circuler. C'est ma responsabilité.
+Le succès m'accompagne ici et maintenant. 
+Je demande à mes ancêtres qui ont traversé des difficultés dues à un manque, de me donner leur benediction et de me donner la permission de vivre differemment. 
+Je demande aux ancêtres qui ont crée et vecu dans l'abondance et le succès, de m'inspirer. 
+
+Hari Om, cela est fait, Merci . “
+
+Cette déclaration doit être écrite 10 fois à la main dans votre cahier.
+
+De plus, vous devez faire un enregistrement audio de cette déclaration (vous pouvez enregistrer un message vocal dans WhatsApp ou sur l’enregistreur audio de votre téléphone).
+
+Investissez  vous calmement dans cette écriture, prenez votre temps, ressentez le plaisir et faites-en un acte d'amour.
+
+Passez une magnifique journée et profitez de la méditation (ci-dessous)‼ 🌈❣💛🙏🤩
+
+Je vous embrasse fort
+💋☀🦋🤸‍♀🧘‍♀😁😉❣
+With love💕
+Karine 
+.
