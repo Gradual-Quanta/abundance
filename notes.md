@@ -266,3 +266,37 @@ Je vous embrasse fort
 With love💕
 Karine 
 .
+
+# day 7
+
+✨☀🌟⭐💫☀🌟
+
+J’espère que vous allez bien et félicitations  pour cette 1ère semaine de pratique! Youhou! Et oui, déjà❣
+
+Un immense bravo pour votre persévérance, vraiment‼🙏 ✨
+
+Alors, pour clôturer cette première semaine, voici l’invitation du jour 7 :
+
+Faites une liste de personnes (seulement les prénoms, pas besoin de noms de famille) avec lesquelles vous sentez, d'une manière ou d'une autre, qu’ils vous prennent de l'énergie. Des gens avec qui vous ne vous sentez pas à l'aise ou qui vous agitent...
+Même si vous les aimez. 
+
+Peut-être que certaines de ces personnes sont déjà mentionnées dans la liste du jour 1. Cela signifie que certaines de ces personnes peuvent aussi vous aider à grandir ou contribuer à votre vie.
+
+Elles peuvent être des personnes proches de vous ou pas. L'important est d'identifier le sentiment "déplaisant" qu’elles peuvent provoquer chez vous, même si ce n'est pas toujours le cas.
+
+Il peut s'agir de voisins, de collègues, de votre conjoint, de membres de la famille, d’amis, ou plus lointain comme des membres du gouvernement… 
+Quelqu'un qui ne vous félicite pas par ex, ou qui ne respecte pas votre comportement, qui vous juge, vous parle mal, vous envahit...
+Notez aussi les personnes avec qui vous sentez que quelque chose gratte, pique, vous aspire, vous agite ou vous vide avant, pendant ou après les avoir vu, que quelque chose ne vous convient pas, même si vous ne pouvez pas l’identifier vraiment. 
+
+N'oubliez pas que ces personnes, même si elles nous prennent de l'énergie, nous enseignent quelque chose de nouveau en même temps puisqu’elles reflètent quelque chose de nous même.
+
+Essayez simplement de vous souvenir de ces personnes qui vous sortent de votre centre, de votre tranquillité sans vous juger pour cela. 
+
+Écrivez cette liste et pour finir ... À côté de chaque nom, écrivez une courte bénédiction personnelle à chaque personne. 
+
+Je vous souhaite une belle méditation (ci-dessous) et une agréable journée.
+
+Hari Om 😉
+With love 💕
+Karine 
+.

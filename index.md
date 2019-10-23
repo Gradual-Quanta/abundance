@@ -2,19 +2,19 @@
 title: Abundance Program
 layout: home
 pgw: https://cloudflare-ipfs.com
+day: 'd9'
+dn: 9
 ---
 ## Creating abundance
 
 check out the Deepak's 21 days Abondance Meditation :
 
-[![Abundance21](21-days-abundance-program/medit-forward.jpg)](21-days-abundance-program/)
+[![Abundance: day {{page.dn}}](21-days-abundance-program/medit-forward.jpg)](21-days-abundance-program/)
 
 ### Today:
 
-
-<!-- Day 6 Mantra: [Ram](https://duckduckgo.com/?q=%22Ram%22+Sanscrit+Mantra) : everything I desire is within me tout ce que je desire est en moi -->
-Day 7 Mantra: [Sat Chit Ananda](https://duckduckgo.com/?q=Sat+Chit+Ananda) : truth, consciousness, bliss <!-- la vérité la conscience et la grâce -->
-<audio title="Day 7" src="{{page.pgw}}/ipfs/{{site.data.ipfs.qm}}/21 Days of Abundance - Day 07-LYzvXOWv7xE.mp3" type="audio/mp3" controls=1></audio>
+Day {{page.dn}} Mantra: [{{site.data.mantras[page.day].mantra}}](https://duckduckgo.com/?q={{site.data.mantras[page.day].qexp}}) : {{site.data.mantras[page.day].desc}}
+<audio title="Day {{page.dn}} : {{site.data.mantras[page.day].fr}}" src="{{page.pgw}}/ipfs/{{site.data.ipfs.qm}}/{{site.data.audio.mp3[page.dn]}}" type="audio/mp3" controls=1></audio>
 
 
 

@@ -1,0 +1,42 @@
+--- # list of mantras
+d1: &sh
+  mantra: "So Ham"
+  qexp: "!g+so+ham+Sancrit+mantra"
+  desc: "I am (S)He/That"
+  fr: "Je Suis"
+d2: &ab
+  mantra: "Aham Brahmasmi"
+  qesp: "Aham+Brahmasmi"
+  desc: "The core of my being is the ultimate reality"
+  fr: "l'essence profonde de mon être est la réalité ultime"
+d3: &sca
+  mantra: "Sat Chit Ananda"
+  qesp: "Sat+Chit+Ananda"
+  desc: "<span alt=truth>existence</span>, consciousness, bliss"
+  fr: "la vérité la conscience et la grâce"
+d4: *ab
+d5: *sca
+d6:
+  mantra: "Ram, Ram"
+  qexp: "!g+ram,+ram+Sancrit+mantra"
+  desc: "everything I desire is within me"
+  fr: "tout ce que je desire est en moi"
+d7: *sca
+d8: &opn
+  mantra: "Om Bhavam Namaha"
+  qexp: "!g+Om+Bhavam+Namaha"
+  desc: "I am absolute existence, I am a field of all possibilities"
+  fr: "Je suis existance absolue, et un immense champ de possibilités"
+d9:
+  mantra: "Om Vardhanam Namaha"
+  qexp: "Om+Vardhanam+Namaha"
+  desc: "I nourish the Universe, and The Universe nourishes me (law of giving)"
+  fr: "Je nourris l'Univers, et l'Univers me nourrit"
+d10:
+  mantra: "tomorrow's mantra is ..."
+  qexp: "Om+Kriham+Namaha"
+tmpl: 
+  mantra: ~
+  qexp: "XY+Z "
+  desc: "I am"
+  fr: "Je suis"

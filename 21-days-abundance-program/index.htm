@@ -1,6 +1,10 @@
 ---
+day: 'd9'
+dn: 9
 netname: flamboyant-shannon-2522a4
 netname: abundance
+wp1: https://labeckykinderlife.wordpress.com/
+wp2: https://jacquelinecassel.wordpress.com/
 ---
 <!DOCTYPE html>
 <title>21 Days Abundance Program (meditate it forward) -- courtesy Deepak Chopra</title>
@@ -11,7 +15,7 @@ netname: abundance
 {% if jekyll.environment == 'production' %}
 <base href=https://cloudflare-ipfs.com/ipfs/{{site.data.ipfs.qm}}/>
 {% else %}
-<base href=http://127.0.0.1:8080/ipfs/{{site.data.ipfs.qm}}/>
+<base href=http://127.0.0.1:8083/ipfs/{{site.data.ipfs.qm}}/>
 {% endif %}
 
 <div id=hero class="first content">
@@ -23,6 +27,13 @@ netname: abundance
 </p>
 <img src=medit-forward.jpg alt="medite it forward">
 
+<h3>mantras:</h3>
+{% for day in site.data.mantras %}
+ {% if day[1].mantra %}
+ {{day[0]}} : <span title="{{day[1].fr}}">{{day[1].mantra}}</span> (<i>{{day[1].desc}}</i>)<br>
+ {% endif %}
+{% endfor %}
+
 </div>
 <br>
 <div class=content>
@@ -31,48 +42,42 @@ Below is the audio records for the program
 <a href=https://{{page.netname}}.netlify.com/><img align=right
 src=https://chart.googleapis.com/chart?cht=qr&choe=UTF-8&chld=M&chs=180&chl=https://{{page.netname}}.netlify.com/></a>
 
+
 <h3>previously:</h3>
 <pre>
-Day 1 Mantra: <a href=https://duckduckgo.com/?q=So+Ham+Sancrit+Mantra>So Ham</a> I am (S)He/That <!-- je Suis -->
-<audio title="Day 1" src="21 Days of Abundance - Day 01-en1kIch5KNE.mp3" type="audio/mp3" controls=1></audio>
-Day 2 Mantra: <a href=https://duckduckgo.com/?q=Aham+Brahmasmi>Aham Brahmasmi</a> : the core of my being is the ultimate reality <!-- l'essence profonde de mon être est la réalité ultime -->
-<audio title="Day 2" src="21 Days of Abundance - Day 02-syUVFMsctps.mp3" type="audio/mp3" controls=1></audio>
-Day 3 Mantra: <a href=https://duckduckgo.com/?q=Sat+Chit+Ananda>Sat Chit Ananda</a> : truth/existance, consciousness, bliss <!-- la vérité la conscience et la grâce -->
-<audio title="Day 3" src="21 Days of Abundance - Day 03-M4Js-QMbZJU.mp3" type="audio/mp3" controls=1></audio>
-Day 4 Mantra: <a href=https://duckduckgo.com/?q=Aham+Brahmasmi>Aham Brahmasmi</a> : the core of my being is the ultimate reality <!-- l'essence profonde de mon être est la réalité ultime -->
-<audio title="Day 4" src="21 Days of Abundance - Day 04-ra3V_QRpFbE.mp3" type="audio/mp3" controls=1></audio>
-Day 5 Mantra: <a href=https://duckduckgo.com/?q=Sat+Chit+Ananda>Sat Chit Ananda</a> : truth, consciousness, bliss <!-- la vérité la conscience et la grâce -->
-<audio title="Day 5" src="21 Days of Abundance - Day 05-1qMc739s1DY.mp3" type="audio/mp3" controls=1></audio>
-Day 6 Mantra: <a href=https://duckduckgo.com/?q=Ram+Sanscrit+Mantra>Ram</a> : everything I desire is within me <!-- tout ce que je desire est en moi -->
-<br><audio title="Day 6" src="21 Days of Abundance - Day 06-EkpqqrWpudc.mp3" type="audio/mp3" controls=1></audio>
+
+Day 1 Mantra: <a href="https://duckduckgo.com/?q={{site.data.mantras.d1.qexp}}">{{site.data.mantras.d1.mantra}}</a> <span title="{{site.data.mantras.d1.fr}}">{{site.data.mantras.d1.desc}}</span><br><audio title="Day 1" src="{{site.data.audio.mp3[1]}}" type="audio/mp3" controls=1></audio>
+
+Day 2 Mantra: <a href="https://duckduckgo.com/?q={{site.data.mantras.d2.qexp}}">{{site.data.mantras.d2.mantra}}</a> <span title="{{site.data.mantras.d2.fr}}">{{site.data.mantras.d2.desc}}</span><br><audio title="Day 2" src="{{site.data.audio.mp3[2]}}" type="audio/mp3" controls=1></audio>
+
+Day 3 Mantra: <a href="https://duckduckgo.com/?q={{site.data.mantras.d3.qexp}}">{{site.data.mantras.d3.mantra}}</a> <span title="{{site.data.mantras.d3.fr}}">{{site.data.mantras.d3.desc}}</span><br><audio title="Day 3" src="{{site.data.audio.mp3[3]}}" type="audio/mp3" controls=1></audio>
+
+Day 4 Mantra: <a href="https://duckduckgo.com/?q={{site.data.mantras.d4.qexp}}">{{site.data.mantras.d4.mantra}}</a> <span title="{{site.data.mantras.d4.fr}}">{{site.data.mantras.d4.desc}}</span><br><audio title="Day 4" src="{{site.data.audio.mp3[4]}}" type="audio/mp3" controls=1></audio>
+
+Day 5 Mantra: <a href="https://duckduckgo.com/?q={{site.data.mantras.d5.qexp}}">{{site.data.mantras.d5.mantra}}</a> <span title="{{site.data.mantras.d5.fr}}">{{site.data.mantras.d5.desc}}</span><br><audio title="Day 5" src="{{site.data.audio.mp3[5]}}" type="audio/mp3" controls=1></audio>
+
+Day 6 Mantra: <a href="https://duckduckgo.com/?q={{site.data.mantras.d6.qexp}}">{{site.data.mantras.d6.mantra}}</a> <span title="{{site.data.mantras.d6.fr}}">{{site.data.mantras.d6.desc}}</span><br><audio title="Day 6" src="{{site.data.audio.mp3[6]}}" type="audio/mp3" controls=1></audio>
+
+Day 7 Mantra: <a href="https://duckduckgo.com/?q={{site.data.mantras.d7.qexp}}">{{site.data.mantras.d7.mantra}}</a> <span title="{{site.data.mantras.d7.fr}}">{{site.data.mantras.d7.desc}}</span><br><audio title="Day 7" src="{{site.data.audio.mp3[7]}}" type="audio/mp3" controls=1></audio>
+
+Day 8 Mantra: <a href="https://duckduckgo.com/?q={{site.data.mantras.d8.qexp}}">{{site.data.mantras.d8.mantra}}</a> <span title="{{site.data.mantras.d8.fr}}">{{site.data.mantras.d8.desc}}</span><br><audio title="Day 8" src="{{site.data.audio.mp3[8]}}" type="audio/mp3" controls=1></audio>
+
 </pre>
 
 <h3>Today:</h3>
-Day 7 Mantra: <a href=https://duckduckgo.com/?q=Sat+Chit+Ananda>Sat Chit Ananda</a> : truth, consciousness, bliss <!-- la vérité la conscience et la grâce -->
-<audio title="Day 7" src="21 Days of Abundance - Day 07-LYzvXOWv7xE.mp3" type="audio/mp3" controls=1></audio>
+{% assign dm1 = page.dn|minus:1 %}
 <p>
+Day <a href="{{page.wp1}}?s=day+{{page.dn}}%3A">{{page.dn}}</a> Mantra: <a href="https://duckduckgo.com/?q={{site.data.mantras[page.day].qexp}}">{{site.data.mantras[page.day].mantra}}</a> <span title="{{site.data.mantras[page.day].fr}}">{{site.data.mantras[page.day].desc}}</span><br><audio title="Day {{page.dn}}" src="{{site.data.audio.mp3[page.dn]}}" type="audio/mp3" controls=1></audio>
 </p>
 .
 </div><br><div class="last content">
 <h3>Tomorrow:</h3>
 <p>
-<!-- Day <a href=https://labeckykinderlife.wordpress.com/?s=day+7%3A>7</a> -->
-Day <a href=https://jacquelinecassel.wordpress.com/?s=Day+8%3A>8</a>
-<br><audio title="Day 8" src="21 Days of Abundance - Day 08-gqN0H8oSYf0.mp3" type="audio/mp3" controls=1></audio>
+{% assign dn1 = page.dn|plus:1 %}
+{% assign nday = 'd'|append:page.dn1 %}
+Day <a href="{{page.wp2}}?s=Day+{{dn1}}%3A">{{dn1}}</a> <audio title="Day {{dn1}} {{site.data.mantras[nday].mantra}}" src="{{site.data.audio.mp3[dn1]}}" type="audio/mp3" controls=1></audio>
 <!--
-Day 9 <audio title="Day 9" src="21 Days of Abundance - Day 09-m_2qPQbkG9c.mp3" type="audio/mp3" controls=1></audio>
-Day 10 <audio title="Day 10" src="21 Days of Abundance - Day 10-ZlCt0m4BYrE.mp3" type="audio/mp3" controls=1></audio>
-Day 11 <audio title="Day 11" src="21 Days of Abundance - Day 11-ttylOF9S0IU.mp3" type="audio/mp3" controls=1></audio>
-Day 12 <audio title="Day 12" src="21 Days of Abundance - Day 12-NbfDxK9JpJU.mp3" type="audio/mp3" controls=1></audio>
-Day 13 <audio title="Day 13" src="21 Days of Abundance - Day 13-G9lc20Hq24c.mp3" type="audio/mp3" controls=1></audio>
-Day 14 <audio title="Day 14" src="21 Days of Abundance - Day 14-w-72PUMb8oA.mp3" type="audio/mp3" controls=1></audio>
-Day 15 <audio title="Day 15" src="21 Days of Abundance - Day 15-Xw5Gz2ToQQA.mp3" type="audio/mp3" controls=1></audio>
-Day 16 <audio title="Day 16" src="21 Days of Abundance - Day 16-8-sSw8MNIi8.mp3" type="audio/mp3" controls=1></audio>
-Day 17 <audio title="Day 17" src="21 Days of Abundance - Day 17-yswgPaqYTe8.mp3" type="audio/mp3" controls=1></audio>
-Day 18 <audio title="Day 18" src="21 Days of Abundance - Day 18-3OZVy0vZ6Ds.mp3" type="audio/mp3" controls=1></audio>
-Day 19 <audio title="Day 19" src="21 Days of Abundance - Day 19-rok9-7a8O64.mp3" type="audio/mp3" controls=1></audio>
-Day 20 <audio title="Day 20" src="21 Days of Abundance - Day 20-RxdYqKW9RIw.mp3" type="audio/mp3" controls=1></audio>
-Day 21 <audio title="Day 21" src="21 Days of Abundance - Day 21-R4d74nY1jiQ.mp3" type="audio/mp3" controls=1></audio>
+Day {{dj}} <audio title="Day {{dj}}" src="{{site.data.audio.mp3[dj]}}" type="audio/mp3" controls=1></audio>
 -->
 </p>
 </div>
