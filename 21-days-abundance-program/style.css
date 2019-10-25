@@ -1,6 +1,6 @@
 body {
   margin: 0;
-  background-image: url(./img-abundance.jpg);
+  background-image: url(../img/img-abundance.jpg);
   background-size: 100vw auto;
 }
 img { max-width: 100%; }

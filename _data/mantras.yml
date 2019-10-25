@@ -1,4 +1,18 @@
 --- # list of mantras
+# Le mantra en Sanskrit est : SO HUM, signifiant “Je suis”. L’objet de mantra est de nous connecter à notre propre divinité.
+# Le mantra en Sanskrit est : AHAM BRAHMASMI, signifant “I am the universe. I am absolute existence” / “Je suis l’univers. Je suis l’existence absolue.”.
+# Le mantra en Sanskrit est : OM BHAVAM NAMAH, signifiant “I am absolute existence, I am a field of all possibilities” / “Je suis existence absolue, je suis le champ de tous les possibles”
+# Le mantra en Sanskrit est : OM VARUNAM NAMAH, signifiant “My life is in harmony with the universe” / “Ma vie est en harmonie avec l’univers.”
+# Le mantra en Sanskrit est : OM VARDHANAM NAMAH, signifiant “I nourish the universe and the universe nourishes me” / “Je nourris l’univers et l’univers me nourrit.”
+
+# OM VARDHANAM NAMAH: I am the nourisher of the Universe, the Universe nourishes me
+# OM KRIYAM NAMAH: My actions are aligned with cosmic law
+# OM DAKSHAM NAMAH: My actions achieve maximum benefit with minimal effort
+# OM RITAM NAMAH: My intentions and desires are supported by cosmic intelligence
+# OM ANANDHAM NAMAH: My actions are blissfully free from attachment to outcome
+# OM VARUNAM NAMAH: My life is in harmony with cosmic law
+# OM BHAVAM NAMAH: I am absolute existence
+
 d1: &sh
   mantra: "So Ham"
   qexp: "!g+so+ham+Sancrit+mantra"
@@ -33,8 +47,15 @@ d9:
   desc: "I nourish the Universe, and The Universe nourishes me (law of giving)"
   fr: "Je nourris l'Univers, et l'Univers me nourrit"
 d10:
-  mantra: "tomorrow's mantra is ..."
-  qexp: "Om+Kriham+Namaha"
+  mantra: "Om Kriyam Namaha"
+  qexp: "Om+Kriym+Namaha"
+  desc: "My actions are in alignment with cosmic law"
+  fr: "Mes actions sont en alignement avec les lois cosmiques"
+d11:
+  mantra: "Om Daksham Namaha"
+  qexp: "Om+Daksham+Namaha"
+  desc: "My actions achieve maximum benefit with minimal effort"
+  fr: "Mes actions produise un maximum de bien avec un effort minimal"
 tmpl: 
   mantra: ~
   qexp: "XY+Z "

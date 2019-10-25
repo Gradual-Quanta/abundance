@@ -8,5 +8,8 @@
 {% if page.title %}<h1>{{page.title}}</h1>{% else %}<h2>Day {{site.data.day.dn}}: {{title}}</h2>{% endif %}
 </div><br>
 <div class=content>
+{% if jekyll.environment == 'production' %}
+{% assign pgw = 'https://cloudflare-ipfs.com' %}{% else %}
+{% assign pgw = 'http://127.0.0.1:8083' %}{% endif %}
 {{content}}
 </div>

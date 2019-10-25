@@ -18,7 +18,7 @@ Day {{site.data.day.dn}} [Mantra][1]: [{{site.data.mantras[site.data.day.day].ma
 * the [program][2]
 
 [1]: mantras.html
-[2]: 21-days-abundance-program/index.htm
+[2]: 21-days-abundance-en.htm
 
 
-
+<! -- {{pgw}} -->
