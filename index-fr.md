@@ -2,7 +2,7 @@
 title:  Programme d'Abondance
 layout: home
 lang: fr
-pgw: https://ipfs.blockringtm.ml
+pgw: https://cloudflare-ipfs.com
 ---
 ## La Creation de l'abundance (Jour {{site.data.day.dn}})
 
