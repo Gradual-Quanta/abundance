@@ -1,11 +1,20 @@
 <!DOCTYPE html>
 {% if page.title %}{% assign title = page.title %}
 {% else %}{% assign title = site.data.mantras[site.data.day.day].mantra %}{% endif %}
-<title>{{title}} | {{site.title}}</title>
+{% if page.lang == 'fr' %}
+<title>{{title}} | Jour {{site.data.day.dn}} </title>
+{% else %}
+<title>{{title}} | Day {{site.data.day.dn}} -- {{site.title}}</title>
+{% endif %}
 <link href=style.css rel="stylesheet" type="text/css"/>
 <meta charset="utf8"/>
 <div id=hero class="first content">
-{% if page.title %}<h1>{{page.title}}</h1>{% else %}<h2>Day {{site.data.day.dn}}: {{title}}</h2>{% endif %}
+{% if page.title %}<h1>{{page.title}}</h1>{% else %}
+{% if page.lang == 'fr' %}
+<h2>Jour {{site.data.day.dn}}: {{title}}</h2>
+{% else %}
+<h2>Day {{site.data.day.dn}}: {{title}}</h2>
+{% endif %} {% endif %}
 </div><br>
 <div class=content>
 {% if jekyll.environment == 'production' %}

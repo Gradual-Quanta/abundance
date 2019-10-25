@@ -5,9 +5,12 @@ pgw: https://cloudflare-ipfs.com
 ---
 ## Creating abundance (Day {{site.data.day.dn}})
 
+[![FR](img/fr.svg)](index-fr.html)
+[![GB](img/gb.svg)](index-en.html)
+
 check out the Deepak's 21 days Abondance Meditation :
 
-[![Abundance: day {{site.data.day.dn}}](21-days-abundance-program/medit-forward.jpg)](21-days-abundance-program/)
+[![Abundance: day {{site.data.day.dn}}](img/medit-forward.jpg)](21-days-abundance-program/)
 
 ### Today ({{site.data.day.date}}):
 
@@ -17,8 +20,8 @@ Day {{site.data.day.dn}} [Mantra][1]: [{{site.data.mantras[site.data.day.day].ma
 * the [mantras][1]
 * the [program][2]
 
+
 [1]: mantras.html
 [2]: 21-days-abundance-en.htm
 
 
-<! -- {{pgw}} -->

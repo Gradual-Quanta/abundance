@@ -1,9 +1,12 @@
 ---
 title:  Programme d'Abondance
 layout: home
+lang: fr
 pgw: https://ipfs.blockringtm.ml
 ---
 ## La Creation de l'abundance (Jour {{site.data.day.dn}})
+
+[![GB](img/gb.svg)](index-en.html)
 
 Ecoute les meditation de Deepak sur l'abondance :
 

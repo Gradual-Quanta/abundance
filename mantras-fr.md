@@ -1,6 +1,11 @@
 ---
 layout: home
+lang: fr
 ---
+<style>
+body { background-image: url(https://cdn.statically.io/img/cloudflare-ipfs.com/ipfs/uAXAALRInChgBcBEUEaoVck67mzhWzO9DgMtqufAIywQSB2ZiZy5qcGcYmuUQCgIIAQ/fbg.jpg);
+</style>
+
 ## Les mantras pour l'abondance :
 
 {% for day in site.data.mantras reversed %}
@@ -11,7 +16,8 @@ layout: home
 
 
 <br>
-ecoutez le [programm][1] le [jour {{site.data.day.dn}}][2]
+ecoutez le [programme][1] le [jour {{site.data.day.dn}}][2]
+( [![FR](img/fr.svg)](index-fr.html) [![GB](img/gb.svg)](index-en.html) )
 
 [1]: 21-days-abundance-fr.htm
 [2]: index-fr.html

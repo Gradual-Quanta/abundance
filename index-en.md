@@ -4,6 +4,9 @@ layout: home
 ---
 ## Creating abundance (Day {{site.data.day.dn}})
 
+[![FR](img/fr.svg)](index-fr.html)
+
+
 check out the Deepak's 21 days Abondance Meditation :
 
 [![Abundance: day {{site.data.day.dn}}](img/medit-forward.jpg)](21-days-abundance-program/)
@@ -16,7 +19,7 @@ Day {{site.data.day.dn}} [Mantra][1]: [{{site.data.mantras[site.data.day.day].ma
 * the [mantras][1]
 * the [program][2]
 
-[1]: mantras-en.html
+[1]: mantras.html
 [2]: 21-days-abundance-en.htm
 
 

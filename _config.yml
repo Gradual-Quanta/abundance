@@ -1,4 +1,5 @@
 --- # jekyll config
+title: abundance w/ Gradual Change
 url: abundance.netligy.com
 defaults:
  - scope:
