@@ -2,16 +2,16 @@
 mp3:
  - "28 Days of Abundance - Day 00-xxxxxxxxxxx.mp3"
  - "Jour 1 - La Réalité de la Prosperité-312115514.mp3"
- - "WhatsApp Audio 2019-10-16 at 7.41.13 AM.mpeg"
- - "WhatsApp Audio 2019-10-16 at 7.41.13 AM.mpeg"
- - "WhatsApp Audio 2019-10-17 at 8.37.51 AM.mpeg"
- - "WhatsApp Audio 2019-10-18 at 7.37.36 AM.mpeg"
- - "WhatsApp Audio 2019-10-19 at 11.11.32 AM.mpeg"
- - "WhatsApp Audio 2019-10-20 at 10.23.16 AM.mpeg"
- - "WhatsApp Audio 2019-10-21 at 8.36.04 AM.mpeg"
- - "WhatsApp Audio 2019-10-22 at 9.48.13 AM.mpeg"
- - "WhatsApp Audio 2019-10-23 at 9.16.08 AM.mpeg"
- - "WhatsApp Audio 2019-10-24 at 11.54.08 AM.mpeg"
+ - Prosperite_Jour02-Prosperite_Jour02.mp3
+ - Prosperite_Jour03-Prosperite_Jour03.mp3
+ - Prosperite_Jour04-Prosperite_Jour04.mp3
+ - Prosperite_Jour05-Prosperite_Jour05.mp3
+ - Prosperite_Jour06-Prosperite_Jour06.mp3
+ - Prosperite_Jour07-Prosperite_Jour07.mp3
+ - Prosperite_Jour08-Prosperite_Jour08.mp3
+ - Prosperite_Jour09-Prosperite_Jour09.mp3
+ - Prosperite_Jour10-Prosperite_Jour10.mp3
+ - Prosperite_Jour11-Prosperite_Jour11.mp3
  - Prosperite_Jour12-Prosperite_Jour12.mp3
  - Prosperite_Jour13-Prosperite_Jour13.mp3
  - Prosperite_Jour14-Prosperite_Jour14.mp3
@@ -29,7 +29,19 @@ mp3:
  - "28 Days of Abundance - Day 26-xxxxxxxxxxx.mp3"
  - "28 Days of Abundance - Day 27-xxxxxxxxxxx.mp3"
  - "28 Days of Abundance - Day 28-xxxxxxxxxxx.mp3"
-mp4: ~
+karine:
+ - "WhatsApp Audio 2019-10-15 at 8.06.15 AM.mpeg"
+ - "WhatsApp Audio 2019-10-16 at 7.41.13 AM.mpeg"
+ - "WhatsApp Audio 2019-10-16 at 7.41.13 AM.mpeg"
+ - "WhatsApp Audio 2019-10-16 at 7.41.13 AM.mpeg"
+ - "WhatsApp Audio 2019-10-17 at 8.37.51 AM.mpeg"
+ - "WhatsApp Audio 2019-10-18 at 7.37.36 AM.mpeg"
+ - "WhatsApp Audio 2019-10-19 at 11.11.32 AM.mpeg"
+ - "WhatsApp Audio 2019-10-20 at 10.23.16 AM.mpeg"
+ - "WhatsApp Audio 2019-10-21 at 8.36.04 AM.mpeg"
+ - "WhatsApp Audio 2019-10-22 at 9.48.13 AM.mpeg"
+ - "WhatsApp Audio 2019-10-23 at 9.16.08 AM.mpeg"
+ - "WhatsApp Audio 2019-10-24 at 11.54.08 AM.mpeg"
 michel:
  - Prosperite_Jour01-Prosperite_Jour01.mp3
  - Prosperite_Jour02-Prosperite_Jour02.mp3
@@ -52,16 +64,4 @@ michel:
  - Prosperite_Jour19-Prosperite_Jour19.mp3
  - Prosperite_Jour20-Prosperite_Jour20.mp3
  - Prosperite_Jour21-Prosperite_Jour21.mp3
-karine:
- - "WhatsApp Audio 2019-10-15 at 8.06.15 AM.mpeg"
- - "WhatsApp Audio 2019-10-16 at 7.41.13 AM.mpeg"
- - "WhatsApp Audio 2019-10-16 at 7.41.13 AM.mpeg"
- - "WhatsApp Audio 2019-10-16 at 7.41.13 AM.mpeg"
- - "WhatsApp Audio 2019-10-17 at 8.37.51 AM.mpeg"
- - "WhatsApp Audio 2019-10-18 at 7.37.36 AM.mpeg"
- - "WhatsApp Audio 2019-10-19 at 11.11.32 AM.mpeg"
- - "WhatsApp Audio 2019-10-20 at 10.23.16 AM.mpeg"
- - "WhatsApp Audio 2019-10-21 at 8.36.04 AM.mpeg"
- - "WhatsApp Audio 2019-10-22 at 9.48.13 AM.mpeg"
- - "WhatsApp Audio 2019-10-23 at 9.16.08 AM.mpeg"
- - "WhatsApp Audio 2019-10-24 at 11.54.08 AM.mpeg"
+mp4: ~
