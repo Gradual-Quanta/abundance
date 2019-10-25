@@ -5,6 +5,8 @@ netname: flamboyant-shannon-2522a4
 netname: abundance
 wp1: https://labeckykinderlife.wordpress.com/
 wp2: https://jacquelinecassel.wordpress.com/
+pgw: https://ipfs.blockringtm.ml
+pgw: https://cloudflare-ipfs.com
 ---
 <!DOCTYPE html>
 <title>21 Days Abundance Program (meditate it forward) -- courtesy Deepak Chopra</title>
@@ -13,10 +15,9 @@ wp2: https://jacquelinecassel.wordpress.com/
 <link href=style.css rel="stylesheet" type="text/css"/>
 <body>
 {% if jekyll.environment == 'production' %}
-<base href=https://cloudflare-ipfs.com/ipfs/{{site.data.ipfs.qm}}/>
-{% else %}
-<base href=http://127.0.0.1:8083/ipfs/{{site.data.ipfs.qm}}/>
-{% endif %}
+{% assign pgw = 'https://cloudflare-ipfs.com' %}{% else %}
+{% assign pgw = 'http://127.0.0.1:8083' %}{% endif %}
+<!-- <base href={{pgw}}/ipfs/{{site.data.ipfs.qm}}/> -->
 
 <div id=hero class="first content">
 <h2>21 Days Abundance Program (meditate it forward) -- courtesy Deepak Chopra &amp; <i>Gradual Change</i></h2>
@@ -25,14 +26,12 @@ wp2: https://jacquelinecassel.wordpress.com/
 <div class=content>
 <p> Do you want abundance ... <a href="{{site.url}}">create it</a> !
 </p>
-<a href="{{site.url}}/index.html"><img src=medit-forward.jpg alt="medite it forward"></a>
+<a href="{{site.url}}/index.html"><img src=../img/medit-forward.jpg alt="medite it forward"></a>
 
 <h3>mantras:</h3>
-{% for day in site.data.mantras %}
- {% if day[1].mantra %}
- {{day[0]}} : <span title="{{day[1].fr}}">{{day[1].mantra}}</span> (<i>{{day[1].desc}}</i>)<br>
- {% endif %}
-{% endfor %}
+{% for day in site.data.mantras %}{% if day[1].mantra %}
+{{day[0]}} : <span title="{{day[1].fr}}">{{day[1].mantra}}</span> (<i>{{day[1].desc}}</i>)<br>
+{% endif %}{% endfor %}
 
 more about the <a href="{{site.url}}/mantras.html">mantras</a>
 </div>
@@ -48,12 +47,12 @@ src=https://chart.googleapis.com/chart?cht=qr&choe=UTF-8&chld=M&chs=180&chl=http
 <pre>
 {% for day in site.data.mantras %}{% if forloop.index < page.dn %}{% assign dj = forloop.index %}{% assign dayj = 'd'|append:dj %}
 Day {{ dj }} Mantra: <a href="https://duckduckgo.com/?q={{site.data.mantras[dayj].qexp}}">{{site.data.mantras[dayj].mantra}}</a> <span title="{{site.data.mantras[dayj].fr}}">{{site.data.mantras[dayj].desc}}</span>
-<audio title="Day {{dj}}" src="{{site.data.audio.mp3[dj]}}" type="audio/mp3" controls=1></audio>
+<audio title="Day {{dj}}" src="{{page.pgw}}/ipfs/{{site.data.ipfs.qm}}/{{site.data.audio.mp3[dj]}}" type="audio/mp3" controls=1></audio>
 {% endif %}{% endfor %}</pre>
 
 <h3>Today:</h3>
 <p>
-Day <a href="{{page.wp1}}?s=day+{{page.dn}}%3A">{{page.dn}}</a> Mantra: <a href="https://duckduckgo.com/?q={{site.data.mantras[page.day].qexp}}">{{site.data.mantras[page.day].mantra}}</a> <span title="{{site.data.mantras[page.day].fr}}">{{site.data.mantras[page.day].desc}}</span><br><audio title="Day {{page.dn}}" src="{{site.data.audio.mp3[page.dn]}}" type="audio/mp3" controls=1></audio>
+Day <a href="{{page.wp1}}?s=day+{{page.dn}}%3A">{{page.dn}}</a> Mantra: <a href="https://duckduckgo.com/?q={{site.data.mantras[page.day].qexp}}">{{site.data.mantras[page.day].mantra}}</a> <span title="{{site.data.mantras[page.day].fr}}">{{site.data.mantras[page.day].desc}}</span><br><audio title="Day {{page.dn}}" src="{{pgw}}/ipfs/{{site.data.ipfs.qm}}/{{site.data.audio.mp3[page.dn]}}" type="audio/mp3" controls=1></audio>
 </p>
 .
 </div><br><div class="last content">
@@ -61,9 +60,11 @@ Day <a href="{{page.wp1}}?s=day+{{page.dn}}%3A">{{page.dn}}</a> Mantra: <a href=
 <p>
 {% assign dn1 = page.dn|plus:1 %}
 {% assign nday = 'd'|append:page.dn1 %}
-Day <a href="{{page.wp2}}?s=Day+{{dn1}}%3A">{{dn1}}</a> <audio title="Day {{dn1}} {{site.data.mantras[nday].mantra}}" src="{{site.data.audio.mp3[dn1]}}" type="audio/mp3" controls=1></audio>
+Day <a href="{{page.wp2}}?s=Day+{{dn1}}%3A">{{dn1}}</a> <audio title="Day {{dn1}} {{site.data.mantras[nday].mantra}}" src="https://ipfs.blockringtm.ml/ipfs/{{site.data.ipfs.qm}}/{{site.data.audio.mp3[dn1]}}" type="audio/mp3" controls=1></audio>
+
+
 <!--
-{% for mp3 in site.data.audio.mp3 %}{% if forloop.index >= page.dn %}{% assign dj = forloop.index %} Day {{ forloop.index }} <audio title="Day {{dj}}" src="{{site.data.audio.mp3[dj]}}" type="audio/mp3" controls=1></audio>
+{% for mp3 in site.data.audio.mp3 %}{% if forloop.index >= page.dn %}{% assign dj = forloop.index %} Day {{ forloop.index }} <audio title="Day {{dj}}" src="{{page.pgw}}/ipfs/{{site.data.ipfs.qm}}/{{site.data.audio.mp3[dj]}}" type="audio/mp3" controls=1></audio>
 {% endif %}{% endfor %} -->
 </p>
 </div>
