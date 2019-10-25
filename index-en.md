@@ -1,6 +1,8 @@
 ---
 title: Abundance Program
 layout: home
+pgw: https://ipfs.blockringtm.ml
+pgw: https://cloudflare-ipfs.com
 ---
 ## Creating abundance (Day {{site.data.day.dn}})
 
