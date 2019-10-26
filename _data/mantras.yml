@@ -55,7 +55,12 @@ d11:
   mantra: "Om Daksham Namaha"
   qexp: "Om+Daksham+Namaha"
   desc: "My actions achieve maximum benefit with minimal effort"
-  fr: "Mes actions produisent un maximum de bien au moindre effort"
+  fr: "Mes actions produisent un maximum de resultats au moindre effort"
+d12:
+  mantra: "Om Ritam Namaha"
+  qexp: "Om+Ritam+Namaha"
+  desc: "My intentions and desires are supported by cosmic intelligence"
+  fr: "Mes intentions et mer desirs sont supportés par l'intelligence cosmique"
 tmpl: 
   mantra: ~
   qexp: "XY+Z "
