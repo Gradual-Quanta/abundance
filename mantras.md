@@ -3,7 +3,7 @@ layout: home
 ---
 ## mantras for abundance :
 
-[![Français](img/fr.png)](mantras-fr.html)
+[![Français](img/fr.svg)](mantras-fr.html)
 
 
 {% for day in site.data.mantras reversed %}
@@ -17,5 +17,5 @@ layout: home
 listen to the [program][1] for [day {{site.data.day.dn}}][2]
 ( [![GB](img/gb.svg)](index-en.html) [![FR](img/fr.svg)](index-fr.html) )
 
-[1]: 21-days-abundance-program/
-[2]: index.html
+[1]: 21-days-abundance-en.htm
+[2]: index-en.html

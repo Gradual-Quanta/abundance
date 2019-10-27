@@ -4,11 +4,11 @@ layout: home
 lang: fr
 pgw: https://cloudflare-ipfs.com
 ---
-## La Creation de l'abundance (Jour {{site.data.day.dn}})
+## La Création de l'abundance (Jour {{site.data.day.dn}})
 
 [![GB](img/gb.svg)](index-en.html)
 
-Ecoute les meditation de Deepak sur l'abondance :
+Ecoute les meditations de Deepak sur l'abondance :
 
 [![l'abondance: jour {{site.data.day.dn}}](img/medit-forward.jpg)](21-days-abundance-fr.htm)
 

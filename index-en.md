@@ -11,7 +11,7 @@ pgw: https://cloudflare-ipfs.com
 
 check out the Deepak's 21 days Abondance Meditation :
 
-[![Abundance: day {{site.data.day.dn}}](img/medit-forward.jpg)](21-days-abundance-program/)
+[![Abundance: day {{site.data.day.dn}}](img/medit-forward.jpg)](21-days-abundance-en.htm)
 
 ### Today ({{site.data.day.date}}):
 
