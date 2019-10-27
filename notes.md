@@ -300,3 +300,115 @@ Hari Om 😉
 With love 💕
 Karine 
 .
+
+# day 8
+
+De l'art d'attirer l'Amour de sa vie ! ♥♥♥
+
+Bonjour les anges d'abondance, 
+
+Vous êtes nombreux à me solliciter en privé afin de bénéficier d'outils pour vous aider à attirer l'Amour de votre vie...Parfois vous me demander une affirmation clé....
+Un mantra... 
+
+Et bien, sachez pour commencer, que ce n'est pas juste avec une affirmation que vous attirerez cet Amour que vous souhaitez tant vivre....
+
+Comme je l'ai déjà expliqué pour l'abondance, c'est sur VOUS qu'il faut travailler...Travailler sur soi est la première des choses à faire...Savoir se remettre en question...S'aimer, se bichonnner..se respecter car, je vous le rappelle, nous attirons à nous ce que nous vibrons...Si vous vibrez d'amour pour vous, vous avez davantage de chance d'attirer un amour à la hauteur de l'amour que vous émanez pour vous-m'aime ! ♥♥♥Alors que si vous ne vous aimez pas ou peu, que vous vous manquez de respect, que vous vous négligez, vous attirerez une personne en cohérence vibratoire avec cela...🌟
+
+Tout part de nous...et je me répète....Tout est vibratoire...Si vous vibrez la jalousie vis à vis de votre partenaire...Si vous êtes soupconneux, si vous le surveillez tout le temps...Vous reçevrez des situations qui vont nourrir cela...Comment voulez vous vivre une histoire d'amour saine, si vous ne changez pas ce type de comportement ?.....
+Changez d’attitude et de mode de pensée..Soyez plus en confiance....
+
+Et puis, notre cher et tendre n'est pas notre moitié...Il n'est pas là pour combler notre propre vide...Remplissez vous d'abord par vous m'aime....profitez du célibat pour cela car le célibat est aussi l'occasion de travailler sur soi, de se remettre en question, de se préparer à accueillir cette personne, de se remplir, de se combler....L'Autre n'est pas là pour combler nos blessures, nos manques...Si vous ne parvenez pas à vous combler lorsque vous êtes seul(e), ce n'est pas en attirant l'amour que cela sera meilleur...Bien au contraire...Puisque si vous vibrez vos manques, vos blessures, vous serez certainement plus exigeant(e) avec l'Autre 🤔...Et vous ne vivrez pas, là un amour pur et authentique....💞
+
+Cessez de dire que vous êtes seul(e)🕉...Les mots ont un pouvoir très fort‼....Parfois lorsque vous me sollicitez, le mot solitude, revient trop souvent...Vous envoyez un signal fort à l'univers qui vous répond par la solitude🦋.....Vous voulez attirer cet amour alors commencez par ressentir ce que cela fait d'être dans ses bras, d'être amoureux...plutôt que de vibrer le manque et la solitude...Aidez vous par exemple de films romantiques pour vous aider à revibrer l'Amour !
+Et meditez‼🙏
+
+J'espère que ces quelques "conseils" vous éclaireront.
+
+Je vous souhaite une belle et merveilleuse journée. 
+Now la méditation 😘
+Karine 🧘‍♀
+
+ReCoucou mes anges ☀
+
+Déjà bravo à vous pour votre cheminement jusqu’à maintenant, je suis si heureuse que vous soyez dans ce groupe, qui ne serait pas le même sans vous 😊🌸
+
+Embarquement immédiat pour la 2eme semaine 🚀
+
+Cette semaine, à travers les méditations, nous explorerons les 7 lois spirituelles du succès. Je vais vous envoyer chaque jour une photo de la page correspondante, que je vous conseille de lire APRÈS avoir écouté la méditation. Mais faites évidemment comme vous voulez...😊
+
+La 1ere : la loi de la pure potentialité
+
+
+Voici l'exercice du jour 8 :
+
+Trouvez au moins 5 reçus ou factures de quelque chose que vous avez acheté, là où vous avez investi. Écrivez sur chacun d'eux:
+"Tout ce que j'ai investi pour moi me reviendra 7 fois".
+
+Cela concerne n'importe quel type d’investissement : supermarché, restaurant, effets personnels, voiture, santé, coiffeur, frais de déplacement, cadeau, massage....
+
+Désormais, pour tout ce que vous achetez, écrivez cette déclaration sur la facture ou le reçu.
+
+N'oubliez pas de vous connecter au pouvoir des mots et de profiter du processus.
+
+Méditation + photo du jour ci-dessous. 
+
+Have a sweet❣☀
+Karine 🕉
+
+# day 9
+
+Bonjour 💗🌟☀
+
+Quelle joie de recevoir toutes vos histoires de résonances, synchronicités , blagues de l'Univers et prises de conscience! Quelle richesse pour moi de recevoir ça! MERCI! 😊
+
+Bravo de tenir bon, en retard, en avance mais coute que coute!
+Quelle équipe!
+J'adore, vous êtes tous trop forts! 😁😍😚
+
+Aujourd’hui, dans la méditation, on continue le voyage à travers les 7 lois spirituelles du succès :
+La 2eme loi : la loi du don
+
+Et voici l'exercice du jour 9 :
+
+Écrivez 5 faiblesses ou défauts (traits de comportement, mentalités, croyances, habitudes, etc.) qui, selon vous, vous limitent, vous empêchent d’obtenir ce que vous voulez vraiment, que cela soit matériel ou non.
+Faiblesse ou défauts que vous souhaitez améliorer et corriger, et sans lesquels tout se déroulerait simplement mieux.
+
+Essayez de vous concentrer et d'aller aussi profond que possible.
+
+Sentez dans votre cœur ce que sont réellement ces limitations, en vous demandant pourquoi elles sont présentes, d’où elles proviennent, et en trouvant le besoin que ce comportement veut nourrir. Notez le. Prenez le temps. 
+
+Je vous souhaite une merveilleuse  de  journée🌞⭐with love❤🕉
+Karine 🤸‍♀
+.
+
+# day 10
+
+Goooooood Morning happy lovely people ⭐
+
+
+Félicitations à vous, vous êtes presque au milieu du processus ! 🎈✨
+
+Je voulais vous dire que que je suis vraiment touchée par l'énergie de ce groupe, cette connexion coeur a coeur, la façon que vous avez d'être là, d'être ensemble... Vos messages vos témoignages, vos petites attentions ....⭐🦋🕉🥰
+
+Allez, au boulot‼😉
+Le voyage à travers les 7 lois spirituelles du succès continue... 
+La 3ème loi : la loi du karma ou loi de cause à effet
+Comme hier, vous aurez, en plus de la méditation, la photo du livre correspondante
+
+
+Voici l'exercice du jour 10 :
+
+Sur la liste des cinq "failles" que vous avez énumérées hier (J9), choisissez les 2 sur lesquelles vous souhaitez travailler.
+
+Pour chacune des 2, définissez un plan d'action pour y remédier en écrivant au moins deux actions (il peut s'agir d'actions concrètes quotidiennes ou de modifications à long terme que vous devez mettre en œuvre pour améliorer la valeur par défaut), soyez le plus précis-e possible.
+Puis, mettez-les en pratique dès maintenant ;)
+
+De plus, dans la mission d'aujourd'hui, vous devez écouter la méditation de Deepak Chopra aujourd'hui au moins 3 fois, écrire dans votre cahier la pensée centrée qu'il vous donne et la garder à l'esprit - autant que possible tout au long de la journée .
+
+Et Passez une bien belle journée, fort-e de ce nouvel engagement envers vous même ✨
+
+Méditation + photo du jour 10 ci-dessous 🐾🐾🐾
+With love💕
+Karine 
+
+.

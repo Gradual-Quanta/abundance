@@ -61,6 +61,11 @@ d12:
   qexp: "Om+Ritam+Namaha"
   desc: "My intentions and desires are supported by cosmic intelligence"
   fr: "Mes intentions et mer desirs sont supportés par l'intelligence cosmique"
+d13:
+  mantra: "Om Anandham Namaha"
+  qexp: "Om+Anandham+Namaha"
+  fr: "Mes actions sont merveilleusement libres de tout attachement au resultat"
+  desc: "My actions are blissfully free from attachment to outcome"
 tmpl: 
   mantra: ~
   qexp: "XY+Z "

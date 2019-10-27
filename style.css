@@ -2,6 +2,7 @@ body {
   margin: 0;
   background-image: url(https://cdn.statically.io/img/cloudflare-ipfs.com/ipfs/uAXAALRInChgBcBEUEaoVck67mzhWzO9DgMtqufAIywQSB2ZiZy5qcGcYmuUQCgIIAQ/fbg.jpg);
   background-size: 100vw auto;
+  background-attachment: fixed;
 }
 img { max-width: 100%; }
 video { max-width: 100%; }
