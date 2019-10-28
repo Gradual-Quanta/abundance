@@ -22,3 +22,20 @@
 {% assign pgw = 'http://127.0.0.1:8083' %}{% endif %}
 {{content}}
 </div>
+
+{% if page.name == 'index.md' %}
+<!-- The video -->
+<video autoplay muted loop controls start=0 end=8 id="VideoBG">
+  <source src="output.webm" type="video/webm">
+</video>
+<style>
+#VideoBG {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  min-width: 100%;
+  min-height: 100%;
+  z-index: -3;
+}
+{% endif %}
+</style>
