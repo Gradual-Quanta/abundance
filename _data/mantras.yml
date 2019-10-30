@@ -36,12 +36,12 @@ d6:
   desc: "everything I desire is within me"
   fr: "tout ce que je desire est en moi"
 d7: *sca
-d8: &opn
+d8: &obm
   mantra: "Om Bhavam Namaha"
   qexp: "!g+Om+Bhavam+Namaha"
   desc: "I am absolute existence, I am a field of all possibilities"
   fr: "Je suis existance absolue, et un immense champ de possibilités"
-d9:
+d9: &ovdn
   mantra: "Om Vardhanam Namaha"
   qexp: "Om+Vardhanam+Namaha"
   desc: "I nourish the Universe, and The Universe nourishes me (law of giving)"
@@ -66,8 +66,15 @@ d13:
   qexp: "Om+Anandham+Namaha"
   fr: "Mes actions sont merveilleusement libres de tout attachement au resultat"
   desc: "My actions are blissfully free from attachment to outcome"
+d14:
+  mantra: "Om Varunam Namaha"
+  qexp: "Om+Varunam+Namaha"
+  desc: "My life is in harmony with cosmic law"
+  fr: "Ma vie est en harmonie avec l’univers."
+d15: *ab
+d16: *ovdn
 tmpl: 
   mantra: ~
-  qexp: "XY+Z "
+  qexp: "So+Ham"
   desc: "I am"
   fr: "Je suis"
