@@ -73,6 +73,7 @@ d14:
   fr: "Ma vie est en harmonie avec l’univers."
 d15: *ab
 d16: *ovdn
+d17: *sca
 tmpl: 
   mantra: ~
   qexp: "So+Ham"
