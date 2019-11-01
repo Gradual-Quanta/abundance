@@ -56,7 +56,7 @@ d11:
   qexp: "Om+Daksham+Namaha"
   desc: "My actions achieve maximum benefit with minimal effort"
   fr: "Mes actions produisent un maximum de resultats au moindre effort"
-d12:
+d12: &orn
   mantra: "Om Ritam Namaha"
   qexp: "Om+Ritam+Namaha"
   desc: "My intentions and desires are supported by cosmic intelligence"
@@ -79,6 +79,9 @@ d18:
   qexp: "Tat+Tvam+Asi"
   desc: "I am that, I see the other in myself and myself in others"
   fr: "je suis cela, je me vois l'autre en moi, et moi même dans les autres"
+d19: *sca
+d20: *orn
+d21: *sh
 tmpl: 
   mantra: ~
   qexp: "So+Ham"
