@@ -74,6 +74,11 @@ d14:
 d15: *ab
 d16: *ovdn
 d17: *sca
+d18:
+  mantra: "Tat Toham Assi"
+  qexp: "Tat+Tvam+Asi"
+  desc: "I am that, I see the other in myself and myself in others"
+  fr: "je suis cela, je me vois l'autre en moi, et moi même dans les autres"
 tmpl: 
   mantra: ~
   qexp: "So+Ham"
