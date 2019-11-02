@@ -412,3 +412,284 @@ With love💕
 Karine 
 
 .
+
+# day 11
+
+Bonsoir, 
+
+Tout d’abord bravo pour votre assiduité, car oui vous êtes encore là!
+ La moitié du travail est accompli, ca y est, on a passé la narre du 11e jour! Dingue non 😅 le processus est lancé à pleine vitesse et je vois comment chacun s'investit, certains discretos dans leur coin, certains full shine. Hari Om
+C’est un beau cadeau que vous vous faites... que nous nous faisons!! 😁
+
+Le voyage à travers les 7 lois spirituelles du succès continue... (celle là, je l’adore 😋
+La 4ème loi : la loi du moindre effort 
+Comme hier, vous aurez, en plus de la méditation, la photo du jour.
+
+
+Nous  allons évoquer pendant ces prochains jours un sujet pas trop abordé  et si important dans notre construction identitaire : notre mère🌸
+
+Voici la tâche à effectuer en ce J11
+
+Ecrivez dans votre cahier une description de votre mère:
+- Aspects positifs, qualités 
+- "Defauts" ou choses qui vous agacent
+- Qu'avez-vous appris / apprenez-vous d'elle?
+- Qu'est-ce qui vous rapproche?
+- Qu'est-ce qui vous a séparé / vous sépare d'elle?
+
+Si votre mère n'est plus dans l'expérience physique, concentrez-vous, connectez-vous avec elle et écrivez ce que vous ressentez.
+
+*Donnez vous cette autorisation.
+Je vous souhaite une douce nuit
+
+ jour 11 meditation et extrait de livre ci-dessous.
+.
+
+# day 12
+
+Bonjour à tous 🍂
+Je vois que vous avez été un peu brassés ces derniers jours. Je vous partage que moi aussi.. 
+sans faire de la psychologie de comptoir, juste j'observe que cette ascèse est une réinformation cellulaire, et c est annoncé dans le 1er audio.
+Pour reinformer, il faut faire de la place au neuf. Quand ca sort, parfois ca rape.
+Si je juge, ca fait mal, je suis mal. Si j'observe, ca bouge, je suis face a l'inconnu. Pourquoi l'inconnu et l'instable nous désorientent tant? Sortons du contrôle pour vivre dans la foi!
+La foi dans l'univers, dans les grands cycles, dans la vie, évidemment! 😋🙏🦋🕉🧘‍♀🤸‍♀
+J'espère aussi que vous gérez la valse, on essaye tous d'être "on time"( surtout moi😂),
+c' est super, c'est ok, restons ensemble, sans se mettre le stress, mais je vois que pour ça le groupe est tenace ET a l'écoute.
+Chapeau les amis , vous êtes un bel échantillon d'humanité‼💕
+En tous cas, bravo encore, et ... on continue‼💙😁
+
+La 5ème loi : la loi de l’intention et du désir
+Comme hier, vous aurez, en plus de la méditation, non pas UNE photo du livre correspondante, mais DEUX😊!
+
+Aujourd'hui, nous continuons à explorer le sujet de notre mère.
+
+Demandez à votre mère quelle a été la plus grande douleur / déception de sa vie, et quel est son rêve, qui reste non réalisé. Écrivez la réponse dans votre cahier.
+
+Si votre mère n'est plus dans l'expérience physique, si pour d'autres raisons vous pensez qu'il est préférable de ne pas lui demander directement, veuillez entrer dans une méditation profonde et connectez-vous à elle, demandez du fond du cœur et écoutez la réponse. 
+
+Et puis écrivez-le.
+
+Passez une belle journée, je vous souhaite une méditation fertile. ❤
+
+Méditation du jour 12 + 2 photos du livre sur cette loi ci-dessous
+With love
+Karine 
+.
+
+
+# day 13
+
+☀Bonjour les âmis✨
+
+Merci pour tous vos messages de partage, ça fait grandir!! 😘
+Encore bravo d'être dans le groupe, je sais bien que ce n'est pas facile le trouver le temps/l'énergie/la motivation tous les jours, et pourtant, comme un tourbillon d'étoiles, on continue d'avancer ensemble‼
+Merci d'être là❣🙏🕉🧘‍♀🤸‍♀
+
+Sur ce, ... allez,  au boulot! 😉
+
+Avant-dernière loi : 
+La 6ème loi : la loi du détachement...
+
+Voici l'exercice du jour 13 :
+
+Revenez à la description que vous avez faite de votre mère le 11e jour.
+
+Considérez les situations que vous vivez dans la vie, les schémas que vous répétez dans votre vie.
+Observez-vous des cycles récurrents, une reproduction de motifs ou une similitude entre vous et votre mère? Que sont-ils et comment se manifestent-ils?
+
+Ecrivez ces réflexions dans votre cahier.
+
+Passez une journée riche et colorée ! 😘
+
+Méditation + photos du jour ci-dessous
+with love💕
+🦋Karine 
+.
+
+# day 14
+
+Bonjour mes âmis ‼
+Vive le matin 😋
+Et la saison d'automne!🍁🍂🍁🍂
+ Le temps des soupes et des compotes, des courges, des prunes, des figues .. et la préparation de l’hibernation 😉‼
+
+Aujourd'hui au menu: 
+- la dernière loi spirituelle du succès... :
+La 7ème loi : la loi du Dharma ou but de la vie
+
+
+Suivie d'une invitation à profiter de la journée en prêtant attention à tous les cadeaux d'abondance qui vous entourent, viennent à vous, et remercier chacun d’eux...
+
+ À la fin de la journée, écrivez dans votre cahier au moins trois façons dont l'abondance vous a été manifestée aujourd'hui (même dans de petites choses).
+
+Et la devise du jour : Je suis responsable de ma joie et de ma satisfaction.
+
+Puisse cette journée être remplie d’abondance, de tendresse et de joie ‼😀☀😍
+
+Méditation 14 + photos du jour ci-dessous.
+
+With love❤
+Karine 
+.
+
+# day 15
+J15 🙏💜
+Salut les amis 💕
+Nous voilà déjà dans la 3ème et dernière semaine ! 🌟
+Félicitations pour votre régularité et assiduité....🧚🏼‍♀ courage a ceux qui cavalent après le temps! Rattrappez-nous!!
+on est ensemble!
+
+C est parti pour le Jour 15 🎡
+
+Écrivez une lettre de remerciement, une lettre d'appréciation, à une personne qui, selon vous, vous a blessé à un moment de votre vie.
+
+Avant d'écrire la lettre de remerciement, effacez tous les sentiments négatifs que vous pourriez avoir à propos de cette personne. 
+Si vous avez toujours du ressentiment, vous pouvez écrire tous les sentiments négatifs sur un morceau de papier, puis le jeter, le déchirer ou mieux encore le bruler en étant présent et attentif à cet acte symbolique. L'important est que lorsque vous écrivez la lettre de remerciement / la lettre d'appréciation, vous ne ressentez plus de ressentiment envers cette personne.
+
+Méditez et réfléchissez à la personne à laquelle vous souhaitez vous adresser. Plusieurs personnes peuvent venir à vous dans l’esprit, mais ici nous devons faire l’exercice avec un seul. 
+
+Enfin, la lettre doit être manuscrite, afin que se mettent en mouvement l’intelligence de la main et son interaction avec votre esprit.
+
+Profitez du processus et très belle journée 🌈
+
+Méditation du jour ci-dessous.
+
+With love
+Karine 
+
+.
+
+# Day 16
+Hello J16 ‼🍂🍁
+
+Je vous souhaite une transition automnale riche, tendre, inspirée, inspirante, dense, créative, belle ‼🍁🍂
+
+Voici l’activité de ce jour.., 
+Une invitation à la bienveillance pour soi-même, sans faire ni l'autruche, ni etre miéleuse pour autant👍
+Objective , consciente , présente, aimante😊❤
+
+* Rédigez une liste de choses que vous devez encore faire dans la vie, notamment les choses que vous vouliez faire mais que vous avez reportées au détriment d'autres priorités ou par crainte de blesser quelqu'un ou de ne pas y arriver.
+
+L'idée de cette liste est de nous pardonner de ne pas avoir fait ces choses.
+
+Pour chaque entrée de la liste, écrivez comme dans l'exemple ci-dessous:
+
+Je [nom complet], me pardonne complètement et avec amour, __de ne pas avoir parcouru le monde*.*_
+**Je [nom complet], me pardonne complètement et avec amour, *pour ne pas montrer ma vulnérabilité.
+
+Ecrivez toutes les phrases qui surgissent dans votre esprit, il n'y a pas de limite. 
+
+Je vous embrasse fort
+
+🍃🍂Full Love 🍁🌾
+
+Méditation du jour ci-dessous‼
+KARINE 🧘‍♀🤸‍♀💜
+.
+
+# day 17
+Bonjour
+Et bienvenue au jour 17 !☀
+
+Aujourd'hui, nous avons un exercice très spécial ! Et qui pourrait vous prendre un tout petit peu de temps... alors prenez votre temps 📝💫
+
+Alors voici la tâche du jour :
+
+*Créez une liste détaillée de toutes les choses que vous avez dans votre vie - matérielles et spirituelles, tangibles et intangibles. *
+Par exemple: j'ai un smartphone pour communiquer, j'ai une carte de crédit pour payer pour son utilisation...
+J'ai de fortes amitiés, j'ai un lit pour dormir, j'ai de la nourriture, j'ai de l'amour, j'ai la paix, j'ai de l'eau chaude dans la douche, j'ai des produits de soins personnels ...
+
+*Il n'y a pas de barre supérieure ou inférieure de ce que vous devez écrire ... reconnaissez tout ce que vous avez.
+
+La devise d'aujourd'hui:
+Je dirige mes émotions et choisis de me sentir rassasié, en bonne santé, prospère et béni.
+
+Puissiez-vous être sereine et bercée d'espoir  dans votre travail d'auto-guérison et dans votre voyage d’évolution ❤
+
+Méditation du jour ci-dessous.
+
+Je vous embrasse fort💕💗
+.
+
+# day 18
+
+Bonjour à tous!!
+
+💫Jour 18💫
+
+Nous entrons donc dans les derniers jours de notre voyage de 21 jours. C’est un vrai beau cadeau que l’on s’offre, et c’est merveilleux de penser à chacun de vous chaque matin et de partager cette aventure 🌈
+
+Alors, Voici l'exercice d'aujourd'hui:
+
+Ecrivez une lettre à votre pays d'origine, que vous ayez déménagé ou non, où vous exprimerez tous vos sentiments, vis-à-vis de votre pays.
+Quels que soient les sentiments exprimés, ils sont les bons . Ecrivez tout ce que vous voulez.
+
+Et profitez de la belle méditation du jour - la pensée centrale du jour: "Je célèbre mon unité avec toute vie, sachant que nous sommes tous un."
+
+Méditation du jour ci-dessous.
+.
+
+
+# day 19
+
+Bonjour la Sangha!
+
+J19....
+Nous approchons tout doucement de la fin de ce cycle. Quelle joie pour moi d'avoir partagé ce parcours...
+
+Voici l’exercice du jour 19: 
+
+Lisez (au moins) deux fois l'histoire que vous trouverez ci-dessous, puis écrivez vos réflexions et pensées personnelles - dans votre cahier et dans ce groupe si vous le souhaitez :
+
+"Un jour, un roi dit aux sages de sa cour:
+
+"Je veux créer des bagues lucratives, j'ai acheté l'un des plus beaux diamants du monde, je veux cacher dans l'anneau un message qui puisse servir dans les moments de désespoir. Cela sera mon héritage. Ce doit être une phrase courte, que je placerai sous le diamant de la bague.
+
+Tous ceux qui écoutaient, étaient des sages.
+Ils réfléchirent longtemps mais en vain: s’ils pouvaient écrire des essais, ils n’étaient pas capables d’écrire un message court, ne contenant pas plus de deux ou trois mots, qui puisse aider dans les moments difficiles ...
+
+Le roi fut élevé par un vieux serviteur. Lorsque la mère du roi mourut prématurément, c’est ce serviteur qui prit soin de lui. Il fut donc traité comme un membre de la famille. Le roi éprouvait un grand respect pour le vieil homme et décida d’aller le consulter.
+
+Le vieil homme lui dit:
+
+"Je ne suis ni sage, ni instruit, ni académique, mais je connais un message. On me l’a transmis petit et cela m’a beaucoup aidé durant ma vie au palais.”
+Le vieil homme écrivit quelque chose sur un morceau de papier, le plia et le tendit au roi. "Mais ne le lisez pas.Gardez-le caché et ne l'ouvrez que lorsqu'il n'y aura pas d'autre choix."
+
+Des années plus tard, il y eut une invasion du royaume et le roi perdit la bataille. Il s'enfuit sur son cheval mais ses ennemis le suivirent . Il était seul et les ennemis étaient nombreux. Il atteignit l'endroit où la route se terminait: il n’y avait pas d’issue. Devant lui, un abime donnant sur une vallée profonde . La chute serait fatale.  Il ne pouvait pas revenir en arrière: les ennemis avaient traversé le chemin. Il pouvait entendre le bruit de leurs chevaux. Il n'y avait pas moyen de sortir.
+
+C’est à ce moment qu’il se souvint de la bague. 
+Il l'ouvrit, sortit le morceau de papier et lut le message court mais précieux:
+ "Cela passera aussi".
+
+Lorsqu'il lu le message, il sentit un grand silence l'envelopper. 
+Les ennemis qui le poursuivaient s’étaient peut être perdus dans la forêt ou bien étaient-ils partis dans la mauvaise direction: On n’entendait plus les chevaux.
+
+Le roi fût reconnaissant envers le serviteur: Ces mots étaient merveilleux!
+ Il plia le morceau de papier et le remit sous la bague en diamant. Il rassembla son armée dispersée et rentra au royaume.
+
+Il retourna au palais avec un sentiment de triomphe, on lui organisa une grande fête avec  chants et danses, il se sentait très bien.
+Le vieux  domestique se tenait à côté de lui et lui dit:
+"Ce moment aussi est approprié, regardez à nouveau le message.”
+
+"Mais je viens de gagner, les gens célèbrent mon retour, je ne suis pas désespéré, je ne suis pas dans une impasse."
+Et le vieux serviteur dit: "Écoutez-moi, ce message est utile  lorsque vous êtes battu, mais également lorsque vous gagnez.”
+
+Le roi ouvrit la bague et lut le message:
+
+"Cela passera aussi".
+
+De nouveaux, il ressentit la même chose, un silence qui l’empoisonna bien qu’il fût dans une foule qui célébrait et dansait: Sa fierté et son ego avaient disparu. Le roi avait compris le message. Il était éclairé.
+
+Puis le vieil homme dit:
+
+"Vous souvenez-vous de tout ce qui vous est arrivé ? Rien ni aucune émotion ne sont fixes, il y a jour et nuit, il y a des moments de bonheur et des moments de tristesse, acceptez-les comme une partie naturelle des choses parce qu'elles font partie de la vie."
+
+Est ce que cela fait écho à quelque chose pour vous ?
+N'hésitez pas à partager vos réflexions dans le groupe.
+
+Je vous souhaite une tres journée emplie de merveilles et de douceur 😘
+
+Méditation du jour ci-dessous.
+.
+
+# day 20
