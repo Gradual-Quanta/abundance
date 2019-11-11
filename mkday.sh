@@ -13,7 +13,7 @@ date: $date
 EOT
 jekyll build
 git add style.css index*.md 21-days*.htm
-git add _data/day.yml _data/mantras.yml
+git add _data/day.yml _data/mantras.yml _data/audio.yml
 git add notes.md revs.log
 git status . -uno
 cat _data/day.yml
